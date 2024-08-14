@@ -1,5 +1,12 @@
 # rasproject
+Viksteri Käppi 
+I program motion detection with webcam
 
+Leandro lopez 
+game logic and graphics
+
+Mika Koivuranta
+code base implementation
 
 
 ## Getting started
@@ -15,14 +22,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://repo.kamit.fi/viksterikap/rasproject.git
+git remote add origin https://github.com/LeoTTV21SA/raspberry_Game_Project.git
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://repo.kamit.fi/viksterikap/rasproject/-/settings/integrations)
+- [ ] [Set up project integrations](https://repo.kamit.fi/leolop/rasproject/-/settings/integrations)
 
 ## Collaborate with your team
 
