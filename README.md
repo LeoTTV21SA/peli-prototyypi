@@ -1,9 +1,9 @@
 ## rasproject
 - Viksteri Käppi : I program motion detection with webcam
 						
--Leandro lopez :game logic and graphics
+- Leandro lopez :game logic and graphics
 
--Mika Koivuranta :code base implementation
+- Mika Koivuranta :code base implementation
 
 
 ## Getting started
